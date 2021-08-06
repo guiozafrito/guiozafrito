@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcela 
-- 👀 I’m interested in become a fullstack
+- 👀 I’m interested in become a deva fullstack
 - 🌱 I’m currently learning lógica de programação
 - 💞️ I’m looking to collaborat on ...
 - 📫 How to reach me macschi@gmail.com
