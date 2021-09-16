@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcela 
-- 👀 I’m interested in become a deva fullstack
-- 🌱 I’m currently learning lógica de programação
+- 👀 I’m interested in become a tech deva
+- 🌱 I’m currently learning CTD on Digital House
 - 💞️ I’m looking to collaborat on ...
 - 📫 How to reach me macschi@gmail.com
 
