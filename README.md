@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Marcela 
+- 👋 Hi, I’m Marcela Schiavoni
 - 👀 I’m interested in become a tech deva
-- 🌱 I’m currently learning CTD on Digital House
+- 🌱 I’m currently learning CTD on Digital House turma 09
 - 💞️ I’m looking to collaborat on ...
 - 📫 How to reach me macschi@gmail.com
 
